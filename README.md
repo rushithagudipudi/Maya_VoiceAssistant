@@ -1,3 +1,6 @@
+
+![image](https://github.com/rushithagudipudi/Maya_VoiceAssistant/assets/108623427/0068d4a3-e075-4508-a651-484661c32ed1)
+
 # JARVIS (Just a Rather Very Intelligent System)
 
 #### This was my attempt to make a voice assistant similar to JARVIS (in iron man movie)
